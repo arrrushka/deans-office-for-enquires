@@ -1,0 +1,9 @@
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\bin\Debug\netcoreapp3.1\DeansOffice.Domain.deps.json
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\bin\Debug\netcoreapp3.1\DeansOffice.Domain.dll
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\bin\Debug\netcoreapp3.1\DeansOffice.Domain.pdb
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\obj\Debug\netcoreapp3.1\DeansOffice.Domain.csprojAssemblyReference.cache
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\obj\Debug\netcoreapp3.1\DeansOffice.Domain.AssemblyInfoInputs.cache
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\obj\Debug\netcoreapp3.1\DeansOffice.Domain.AssemblyInfo.cs
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\obj\Debug\netcoreapp3.1\DeansOffice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\obj\Debug\netcoreapp3.1\DeansOffice.Domain.dll
+C:\Users\bestd\source\repos\DeansOffice\DeansOffice.Domain\obj\Debug\netcoreapp3.1\DeansOffice.Domain.pdb
